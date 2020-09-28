@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "learnToNotification/1.0.0": {
+        "dependencies": {
+          "Tulpep.NotificationWindow": "1.1.37"
+        },
+        "runtime": {
+          "learnToNotification.dll": {}
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.37": {
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {
+            "assemblyVersion": "1.1.37.0",
+            "fileVersion": "1.1.37.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learnToNotification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tulpep.NotificationWindow/1.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WO04CR/oL/Du09aHc5WdlmHgVqRVA9xvqij3IH8UtvrsWw+t7WaEw0qfjNzW1C3fFiRBWkf+yekd1h4EC4cZiQ==",
+      "path": "tulpep.notificationwindow/1.1.37",
+      "hashPath": "tulpep.notificationwindow.1.1.37.nupkg.sha512"
+    }
+  }
+}

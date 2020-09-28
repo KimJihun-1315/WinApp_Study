@@ -1,0 +1,17 @@
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.exe
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.csprojAssemblyReference.cache
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.Form1.resources
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.csproj.GenerateResource.cache
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.AssemblyInfoInputs.cache
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.AssemblyInfo.cs
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.deps.json
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.runtimeconfig.json
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.runtimeconfig.dev.json
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.dll
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\learnToNotification.pdb
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\bin\Debug\netcoreapp3.1\Tulpep.NotificationWindow.dll
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.csproj.CoreCompileInputs.cache
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.csproj.CopyComplete
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.dll
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.pdb
+C:\Users\김지훈\source\repos\learnToNotification\learnToNotification\obj\Debug\netcoreapp3.1\learnToNotification.genruntimeconfig.cache
