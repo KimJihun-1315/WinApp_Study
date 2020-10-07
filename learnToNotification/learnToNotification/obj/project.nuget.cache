@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wxDDaEiuMqjnee+iLy+jjcAS+3/dS8/IpZm/do2RkFHohE8IVRA18Ls7/LS0Uv34Q9BYTn8fXV/bPZUbTLJ50g==",
+  "dgSpecHash": "DnXOf/4lPHbzzgepQl2hJbznzvSWIJAezqItNGRVFE/HfjXeIAF5boMa1pcB8hXPFdWvq6TzNKvy5wxogGs8sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
+  "projectFilePath": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\김지훈\\.nuget\\packages\\tulpep.notificationwindow\\1.1.37\\tulpep.notificationwindow.1.1.37.nupkg.sha512"
+    "C:\\Users\\KIMJIHUN\\.nuget\\packages\\tulpep.notificationwindow\\1.1.37\\tulpep.notificationwindow.1.1.37.nupkg.sha512"
   ],
   "logs": [
     {

@@ -28,9 +28,11 @@ namespace learnToNotification
             //꼭 필요한 내용
             PopupNotifier popup = new PopupNotifier();
             popup.BodyColor = Color.Gray;
-            popup.TitleText = "어쩌라고요";
+            
+            popup.TitleText = "Hello";
             popup.TitleColor = Color.White;
-            popup.ContentText = "응 아니야.";
+
+            popup.ContentText = "World";
             popup.ContentColor = Color.White;
 
             popup.ButtonHoverColor = Color.White;

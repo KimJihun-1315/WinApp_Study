@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\learnToNotification.csproj": {}
+    "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\learnToNotification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\learnToNotification.csproj": {
+    "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\learnToNotification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
+        "projectUniqueName": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
         "projectName": "learnToNotification",
-        "projectPath": "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
-        "packagesPath": "C:\\Users\\김지훈\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\김지훈\\source\\repos\\learnToNotification\\learnToNotification\\obj\\",
+        "projectPath": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\learnToNotification.csproj",
+        "packagesPath": "C:\\Users\\KIMJIHUN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\learnToNotification\\learnToNotification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\김지훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KIMJIHUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
