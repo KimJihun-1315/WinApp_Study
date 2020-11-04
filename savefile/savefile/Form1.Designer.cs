@@ -28,34 +28,44 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.button = new System.Windows.Forms.Button();
+            this.InputTextBox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // button1
+            // button
             // 
-            this.button1.Location = new System.Drawing.Point(485, 115);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(295, 143);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button.Location = new System.Drawing.Point(317, 256);
+            this.button.Name = "button";
+            this.button.Size = new System.Drawing.Size(154, 68);
+            this.button.TabIndex = 1;
+            this.button.Text = "button1";
+            this.button.UseVisualStyleBackColor = true;
+            this.button.Click += new System.EventHandler(this.button_Click_1);
+            // 
+            // InputTextBox
+            // 
+            this.InputTextBox.Location = new System.Drawing.Point(21, 175);
+            this.InputTextBox.Name = "InputTextBox";
+            this.InputTextBox.Size = new System.Drawing.Size(450, 27);
+            this.InputTextBox.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(882, 480);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(483, 480);
+            this.Controls.Add(this.InputTextBox);
+            this.Controls.Add(this.button);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button;
+        private System.Windows.Forms.TextBox InputTextBox;
     }
 }
 
