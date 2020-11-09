@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ToDoList_V2.0/1.0.0": {
+        "runtime": {
+          "ToDoList_V2.0.dll": {}
+        },
+        "resources": {
+          "aa/ToDoList_V2.0.resources.dll": {
+            "locale": "aa"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDoList_V2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

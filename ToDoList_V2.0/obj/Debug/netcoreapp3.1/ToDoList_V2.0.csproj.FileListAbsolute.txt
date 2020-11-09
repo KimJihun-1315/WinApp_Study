@@ -1,0 +1,35 @@
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.exe
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.deps.json
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.runtimeconfig.json
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.dll
+C:\Users\USER\source\repos\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.pdb
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2._0.Form1.resources
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.AssemblyInfo.cs
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.dll
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.pdb
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.genruntimeconfig.cache
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2._0.Form1.aa.resources
+C:\Users\USER\source\repos\ToDoList_V2.0\obj\Debug\netcoreapp3.1\aa\ToDoList_V2.0.resources.dll
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csprojAssemblyReference.cache
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2._0.Form1.resources
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2._0.Form1.aa.resources
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csproj.GenerateResource.cache
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.AssemblyInfoInputs.cache
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.AssemblyInfo.cs
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.csproj.CoreCompileInputs.cache
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\aa\ToDoList_V2.0.resources.dll
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.dll
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.pdb
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.exe
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.deps.json
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.runtimeconfig.json
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.runtimeconfig.dev.json
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.dll
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\ToDoList_V2.0.pdb
+D:\## (C#) ##\ToDoList_V2.0\bin\Debug\netcoreapp3.1\aa\ToDoList_V2.0.resources.dll
+D:\## (C#) ##\ToDoList_V2.0\obj\Debug\netcoreapp3.1\ToDoList_V2.0.genruntimeconfig.cache

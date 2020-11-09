@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ToDoList_V2.0/1.0.0": {
+        "dependencies": {
+          "Tulpep.NotificationWindow": "1.1.37"
+        },
+        "runtime": {
+          "ToDoList_V2.0.dll": {}
+        },
+        "resources": {
+          "aa/ToDoList_V2.0.resources.dll": {
+            "locale": "aa"
+          }
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.37": {
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {
+            "assemblyVersion": "1.1.37.0",
+            "fileVersion": "1.1.37.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDoList_V2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tulpep.NotificationWindow/1.1.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WO04CR/oL/Du09aHc5WdlmHgVqRVA9xvqij3IH8UtvrsWw+t7WaEw0qfjNzW1C3fFiRBWkf+yekd1h4EC4cZiQ==",
+      "path": "tulpep.notificationwindow/1.1.37",
+      "hashPath": "tulpep.notificationwindow.1.1.37.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "trFFU803CltHZIoQhTl8WJ++GggLgHvaMEUctH+WcwRgHhyKo32tUkJMgL8WzLRHKplvOVJ7+kRPeWF+1Y7kLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\김지훈\\source\\WinApp_ToDoList\\ToDoList_V2.0\\ToDoList_V2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\김지훈\\.nuget\\packages\\tulpep.notificationwindow\\1.1.37\\tulpep.notificationwindow.1.1.37.nupkg.sha512",
+    "C:\\Users\\김지훈\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\김지훈\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\김지훈\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\김지훈\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "프로젝트 대상 프레임워크 '.NETCoreApp,Version=v3.0' 대신 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8'을(를) 사용하여 패키지 'Tulpep.NotificationWindow 1.1.37'을(를) 복원했습니다. 이 패키지는 프로젝트와 완벽하게 호환되지 않을 수 있습니다.",
+      "libraryId": "Tulpep.NotificationWindow",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

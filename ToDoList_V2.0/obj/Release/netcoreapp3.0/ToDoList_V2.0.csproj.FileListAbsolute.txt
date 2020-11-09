@@ -1,0 +1,17 @@
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.exe
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.deps.json
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.runtimeconfig.json
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.runtimeconfig.dev.json
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.dll
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\ToDoList_V2.0.pdb
+E:\## (C#) ##\ToDoList_V2.0\bin\Release\netcoreapp3.0\aa\ToDoList_V2.0.resources.dll
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2._0.Form1.resources
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2._0.Form1.aa.resources
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.csproj.GenerateResource.cache
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.AssemblyInfoInputs.cache
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.AssemblyInfo.cs
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.csproj.CoreCompileInputs.cache
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\aa\ToDoList_V2.0.resources.dll
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.dll
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.pdb
+E:\## (C#) ##\ToDoList_V2.0\obj\Release\netcoreapp3.0\ToDoList_V2.0.genruntimeconfig.cache
