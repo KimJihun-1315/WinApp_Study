@@ -1,0 +1,15 @@
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\bin\Debug\youtube_player.exe.config
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\bin\Debug\youtube_player.exe
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\bin\Debug\youtube_player.pdb
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.csprojAssemblyReference.cache
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\MainWindow.g.cs
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\App.g.cs
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player_MarkupCompile.cache
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player_MarkupCompile.lref
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\MainWindow.baml
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.g.resources
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.Properties.Resources.resources
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.csproj.GenerateResource.cache
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.csproj.CoreCompileInputs.cache
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.exe
+C:\Users\rlawl\source\GitHub\WinApp_Study\youtube_player\youtube_player\obj\Debug\youtube_player.pdb

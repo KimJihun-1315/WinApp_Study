@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\savefile\\savefile\\savefile.csproj": {}
+    "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\savefile\\savefile\\savefile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\savefile\\savefile\\savefile.csproj": {
+    "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\savefile\\savefile\\savefile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\savefile\\savefile\\savefile.csproj",
+        "projectUniqueName": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\savefile\\savefile\\savefile.csproj",
         "projectName": "savefile",
-        "projectPath": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\savefile\\savefile\\savefile.csproj",
-        "packagesPath": "C:\\Users\\KIMJIHUN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIMJIHUN\\source\\WinApp_Study\\savefile\\savefile\\obj\\",
+        "projectPath": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\savefile\\savefile\\savefile.csproj",
+        "packagesPath": "C:\\Users\\rlawl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\savefile\\savefile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KIMJIHUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rlawl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

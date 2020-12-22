@@ -33,19 +33,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\김지훈\\.nuget\\packages\\": {}
+    "C:\\Users\\rlawl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\김지훈\\source\\WinApp_ToDoList\\ToDoList_V2.0\\ToDoList_V2.0.csproj",
+      "projectUniqueName": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\ToDoList_V2.0\\ToDoList_V2.0.csproj",
       "projectName": "ToDoList_V2.0",
-      "projectPath": "C:\\Users\\김지훈\\source\\WinApp_ToDoList\\ToDoList_V2.0\\ToDoList_V2.0.csproj",
-      "packagesPath": "C:\\Users\\김지훈\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\김지훈\\source\\WinApp_ToDoList\\ToDoList_V2.0\\obj\\",
+      "projectPath": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\ToDoList_V2.0\\ToDoList_V2.0.csproj",
+      "packagesPath": "C:\\Users\\rlawl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rlawl\\source\\GitHub\\WinApp_Study\\ToDoList_V2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\김지훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rlawl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,6 +57,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {}
         }
       },
@@ -68,6 +69,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "Tulpep.NotificationWindow": {
             "target": "Package",
@@ -110,7 +112,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
